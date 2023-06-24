@@ -1,13 +1,10 @@
-# Remotion video
+# 🐐
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.gif">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
-    </picture>
-  </a>
-</p>
+
+
+https://github.com/JonnyBurger/the-goat/assets/1629785/27747cb8-4b3f-4e93-a4c2-be9aaafc6339
+
+
 
 Welcome to your Remotion project!
 
